@@ -1,0 +1,267 @@
+{
+  "project_info": {
+    "project_number": "875712033460",
+    "firebase_url": "https://flutter-cb240.firebaseio.com",
+    "project_id": "flutter-cb240",
+    "storage_bucket": "flutter-cb240.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875712033460:android:7c4eea754a69468e871de1",
+        "android_client_info": {
+          "package_name": "com.sitiflutter.flutter_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875712033460-hbnhasd8d90l2khdulfp9n91knti404r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDskwIKNaIhWjo0Qp5iyCbEtPPmTimFNX8"
+        },
+        {
+          "current_key": "AIzaSyCInmGpVmUSe2Ao1sdU96mFOXgp1CDusk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875712033460-hbnhasd8d90l2khdulfp9n91knti404r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875712033460:android:8de00401751ec925871de1",
+        "android_client_info": {
+          "package_name": "com.sitiflutter.flutter_kesehatan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875712033460-7dfn4ocsrroos9dqvhhsi7nin7raon41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sitiflutter.flutter_kesehatan",
+            "certificate_hash": "449d99d1735628bd5dabbc3637e9774feca54fb3"
+          }
+        },
+        {
+          "client_id": "875712033460-hbnhasd8d90l2khdulfp9n91knti404r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDskwIKNaIhWjo0Qp5iyCbEtPPmTimFNX8"
+        },
+        {
+          "current_key": "AIzaSyCInmGpVmUSe2Ao1sdU96mFOXgp1CDusk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875712033460-hbnhasd8d90l2khdulfp9n91knti404r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875712033460:android:dadff542f481dcb3871de1",
+        "android_client_info": {
+          "package_name": "com.sitiflutter.flutter_news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875712033460-ahtinp3t50r1ukdeaplec639qka6f72f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sitiflutter.flutter_news_app",
+            "certificate_hash": "449d99d1735628bd5dabbc3637e9774feca54fb3"
+          }
+        },
+        {
+          "client_id": "875712033460-hbnhasd8d90l2khdulfp9n91knti404r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDskwIKNaIhWjo0Qp5iyCbEtPPmTimFNX8"
+        },
+        {
+          "current_key": "AIzaSyCInmGpVmUSe2Ao1sdU96mFOXgp1CDusk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875712033460-hbnhasd8d90l2khdulfp9n91knti404r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875712033460:android:4d4b6715983a33be871de1",
+        "android_client_info": {
+          "package_name": "com.sitiflutter.portal_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875712033460-ninfelkomhp8sl3t3s5bo1gbgg1big0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sitiflutter.portal_news",
+            "certificate_hash": "449d99d1735628bd5dabbc3637e9774feca54fb3"
+          }
+        },
+        {
+          "client_id": "875712033460-hbnhasd8d90l2khdulfp9n91knti404r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDskwIKNaIhWjo0Qp5iyCbEtPPmTimFNX8"
+        },
+        {
+          "current_key": "AIzaSyCInmGpVmUSe2Ao1sdU96mFOXgp1CDusk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875712033460-hbnhasd8d90l2khdulfp9n91knti404r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875712033460:android:4e85030c8c7fa2c2871de1",
+        "android_client_info": {
+          "package_name": "com.sitiflutter.project_image"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875712033460-hbnhasd8d90l2khdulfp9n91knti404r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDskwIKNaIhWjo0Qp5iyCbEtPPmTimFNX8"
+        },
+        {
+          "current_key": "AIzaSyCInmGpVmUSe2Ao1sdU96mFOXgp1CDusk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875712033460-hbnhasd8d90l2khdulfp9n91knti404r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875712033460:android:4b965f856b5b7050871de1",
+        "android_client_info": {
+          "package_name": "com.sitiflutter.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875712033460-epqpbu6h7fi32kv8f48lmlo1qi148hf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sitiflutter.task",
+            "certificate_hash": "449d99d1735628bd5dabbc3637e9774feca54fb3"
+          }
+        },
+        {
+          "client_id": "875712033460-hbnhasd8d90l2khdulfp9n91knti404r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDskwIKNaIhWjo0Qp5iyCbEtPPmTimFNX8"
+        },
+        {
+          "current_key": "AIzaSyCInmGpVmUSe2Ao1sdU96mFOXgp1CDusk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875712033460-hbnhasd8d90l2khdulfp9n91knti404r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875712033460:android:3b3f173d334024e2871de1",
+        "android_client_info": {
+          "package_name": "com.sitiflutter.task2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875712033460-hbnhasd8d90l2khdulfp9n91knti404r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDskwIKNaIhWjo0Qp5iyCbEtPPmTimFNX8"
+        },
+        {
+          "current_key": "AIzaSyCInmGpVmUSe2Ao1sdU96mFOXgp1CDusk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875712033460-hbnhasd8d90l2khdulfp9n91knti404r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
